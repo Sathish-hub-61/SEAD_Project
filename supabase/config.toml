@@ -1,0 +1,10 @@
+project_id = "uxtopuijmdsalstnpzmx"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.create-exam-payment]
+verify_jwt = false
+
+[functions.stripe-webhook]
+verify_jwt = false
